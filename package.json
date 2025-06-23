@@ -1,0 +1,16 @@
+{
+    "name": "labrador.unitywrench",
+    "displayName": "UnityWrench",
+    "version": "0.1.0",
+    "description": "A personal toolkit to assist Unity development",
+    "unity": "2022.3",
+    "keywords": ["tools", "untitled"],
+    "author": {
+        "name": "Labrador52"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Labrador52/UnityWrench.git"
+    },
+    "license": "MIT"
+}
